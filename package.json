@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "natours project from udemy",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-scss sass/style.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l-kosmala/natours.git"
+  },
+  "author": "Łukasz Kosmala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l-kosmala/natours/issues"
+  },
+  "homepage": "https://github.com/l-kosmala/natours#readme",
+  "dependencies": {
+    "node": "^18.9.0"
+  }
+}
